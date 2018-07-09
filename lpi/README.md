@@ -1,5 +1,5 @@
-# ShellScript
-Tópicos Importantes:
+# LPI LINUX
+### Tópicos Importantes:
 
 Comptia Linux+
 Objetivos do exame Comptia Linux+, basta responder um questionario que te é apresentado os objetivos da prova. Sempre consulte o site para saber quais os tópicos que realmente caem na prova!!!
@@ -42,6 +42,16 @@ https://chat.whatsapp.com/invite/8lPAwAHKBJI3CLmVxIXi7F
 Webcast sobre a Prova (Várias informações importantes):
 https://www.youtube.com/watch?v=a4aScGiSjP8
 
+App Memrise 
+
+LPIC 1 - Administrator
+
+https://www.memrise.com/course/1236058/lpic-1-lpi-101-lx0-103/
+https://www.memrise.com/course/1435778/lpic-1-lpi-102-lx0-104/
+
+LPIC 2 - Engineer
+
+https://www.memrise.com/course/1802989/lpic-2-201-450/
 Exame labs: 
 https://www.exam-labs.com/info/SY0-401
 
@@ -49,3 +59,5 @@ Links :
 Galera do mundo Linux esse site é excelente para aqueles que não querem comprar licença nem usar Keygen https://alternativeto.net
 https://certificacoes.kpages.online/copia-1519737416
 http://www.sedacollegeonline.com/
+https://www.linkedin.com/pulse/os-caminhos-para-certifica%C3%A7%C3%A3o-lpi1-jonata-araujo
+https://www.linkedin.com/pulse/prepara%C3%A7%C3%A3o-em-30-dias-para-comptia-security-sy0-401-jonata-araujo
