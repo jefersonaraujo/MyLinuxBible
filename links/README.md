@@ -1,8 +1,8 @@
 # LINKS
 
-A INFORMAÇÃO É A COISA MAIS VALIOSA NO MUNDO 
-DISTRIBUA INFORMAÇÃO A TODOS
-1)Apostilas:
+A INFORMAÇÃO É A COISA MAIS VALIOSA NO MUNDO DISTRIBUA INFORMAÇÃO A TODOS
+
+1) Apostilas:
 http://www.guiafoca.org/
 http://www.hardware.com.br/
 https://www.oficinadanet.com.br/apostilas
@@ -101,7 +101,7 @@ https://www.youtube.com/user/daybsonbruno/about
 https://www.youtube.com/user/ricardolongatto/about
 https://www.youtube.com/channel/UCxHzA-Z97sjfK3OISjkbMCQ/about
 
-11)ACERVOS DIGITAIS
+11) ACERVOS DIGITAIS
 https://doc.lagout.org/
 https://drive.google.com/…/fol…/0B7DZdGrd5LrRb0pGSzJudnJyOGc
 https://mega.nz/#F!2EQzQBRR!TzMg4qlQvlOxtL9IVJ_2zg
@@ -115,7 +115,7 @@ https://drive.google.com/drive/folders/1FaT8kVaTEiHRbbZsXg5TJ93pb9grSspN
 https://drive.google.com/drive/folders/0Bzo0R43xxG3Ec0VLeFRkeWktT1E
 https://drive.google.com/drive/folders/0B28wiRqjwTwbbmRVU0lZXzJTZ28
 
-12)Grupos no Telegram 
+12) Grupos no Telegram 
 https://t.me/grupooficina
 https://t.me/UbuntuBrasilOficial
 https://t.me/LinuxMintBrasil
