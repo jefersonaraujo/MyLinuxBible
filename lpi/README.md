@@ -61,3 +61,5 @@ https://certificacoes.kpages.online/copia-1519737416
 http://www.sedacollegeonline.com/
 https://www.linkedin.com/pulse/os-caminhos-para-certifica%C3%A7%C3%A3o-lpi1-jonata-araujo
 https://www.linkedin.com/pulse/prepara%C3%A7%C3%A3o-em-30-dias-para-comptia-security-sy0-401-jonata-araujo
+### Simulado
+http://virtx.com.br/simulado/simulado-lpi-treinamento-linux/lpic-ingles/
